@@ -12,11 +12,11 @@
 ## Ways To Run Test
 
 - cd [directory]
--  $ python -m unittest test.test_antigravity
+-  $ python -m unittest test.test_greeting
 
 - Running a single test case or test method:
 - Also you can run a single TestCase or a single test method:
-- $ python -m unittest test.test_antigravity.Test_Greet
+- $ python -m unittest test.test_greeting.Test_Greet
 - $ python -m unittest test.test_greeting.Test_Greet.testing_greet
 # Running all tests:
 
